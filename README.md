@@ -23,8 +23,4 @@
 <a href="https://t.me/YoussefBenyamine" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Benyamine-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://www.youtube.com/@youssefbenyamine944" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Benyamine-0077B5?style=for-the-badge&logo=Youtube&logoColor=white"/></a>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
+
