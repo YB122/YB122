@@ -20,11 +20,11 @@
 - ⚡ Fun Fact: I enjoy reading and walking by the sea 🌊
 
 ### 🛠 Tech Stack
-- **Languages:** Python, JavaScript, C
+- **Languages:** Python, JavaScript, C, React, Vue, Next
 - **Backend:** Node.js, APIs, PHP
 - **Web:** HTML, CSS, JavaScript
 - **Tools & Platforms:** Linux, Git, GitHub
-- **Concepts:** Open Source, Software Development, Problem Solving
+- **Concepts:** Open Source, Software Development, Problem Solving, FullStack
 
 ### 📫 Connect with Me:
 
