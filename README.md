@@ -81,7 +81,7 @@
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **Portfolio** | Personal website showcasing 15+ full-stack projects. Features dark/light mode, i18n, contact form, and CSS3 animations | React 19, Vite, react-i18next, EmailJS | [Live](https://youssef-portfolio.vercel.app) · [Repo](https://github.com/YB122/youssef-portfolio) |
+| **Portfolio** | Personal website showcasing 15+ full-stack projects. Features dark/light mode, i18n, contact form, and CSS3 animations | React 19, Vite, react-i18next, EmailJS | [Live](https://youssef-portfolio-chi.vercel.app) · [Repo](https://github.com/YB122/youssef-portfolio) |
 | **Alex-Library** | Production-deployed library ecosystem: REST API backend, React admin dashboard, and Next.js user site — all independently deployed | Node.js, Express, MongoDB, React, Next.js 16, TypeScript, JWT, Zod, shadcn/ui | [API](https://github.com/YB122/Library) · [Admin](https://github.com/YB122/admin-library-react) |
 | **E-Commerce Backend** | Scalable REST API with authentication, payment integration, product management, and order processing | Node.js, Express, MongoDB | [Repo](https://github.com/YB122/E-Commerce-Backend) |
 | **Admin Dashboard** | Comprehensive e-commerce admin panel with full CRUD, secure auth, and dark/light mode | React 19, Vite, Tailwind CSS | [Repo](https://github.com/YB122/Admin-Dashboard) |
