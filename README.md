@@ -108,12 +108,38 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YB122&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YB122&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=YB122&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YB122&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=YB122&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YB122&theme=react-dark&hide_border=true&area=true&color=f75c7e&line=f75c7e&point=ffffff" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YB122&theme=radical&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YB122&theme=radical" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YB122&theme=radical" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YB122&theme=radical" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YB122&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YB122&theme=radical&utcOffset=2" alt="Productive Time" />
 </p>
 
 ---
