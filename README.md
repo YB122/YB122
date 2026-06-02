@@ -139,7 +139,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YB122&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YB122&theme=radical&utcOffset=2" alt="Productive Time" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=YB122&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
 </p>
 
 ---
