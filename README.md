@@ -125,7 +125,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YB122&theme=radical&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=YB122&theme=radical&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -139,13 +139,16 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YB122&theme=radical" alt="Stats" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=YB122&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YB122&layout=pie&theme=radical&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages Pie" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
+<a href="https://youssef-portfolio-chi.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-f75c7e?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/youssef-benyamine-b55a81219/" target="_blank">
   <img src="https://img.shields.io/badge/-Youssef%20Benyamine-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
