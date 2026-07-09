@@ -1,12 +1,12 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <h3 align="center">
   Welcome to Youssef Benyamine's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Application+Developer;Angular+%7C+React+%7C+Next.js+%7C+Node.js;Always+Learning+%F0%9F%9A%80&font=Fira+Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Application+Developer;Angular+%7C+React+%7C+Spring+Boot+%7C+Node.js;Always+Learning+%F0%9F%9A%80&font=Fira+Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 - 🎓 **B.Sc. Communication & Electronics Engineering** – Alexandria University *(Graduated 2025)*
 - 🚀 **Open Source Application Developer** – NTI × Digital Egypt Youth (DEY) HireReady Initiative *(420 hrs, 10+ projects)*
 - 👨‍💻 Passionate about building scalable, production-ready web applications with clean, maintainable code
-- 🧠 Currently working with **Angular**, **Node.js/Express**, **WebSockets**, **RabbitMQ**, and **KafkaJS**
+- 🧠 Currently working with **Angular**, **Java Spring Boot**, **Node.js/Express**, **WebSockets**, **RabbitMQ**, and **gRPC**
 - 💬 Ask me about **Full Stack Development**, **REST & GraphQL APIs**, **Microservices**, **Backend Architecture**, and **Open Source**
 - ⚡ Fun Fact: I enjoy reading and walking by the sea 🌊
 
@@ -38,6 +38,8 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 #### Backend
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
@@ -47,7 +49,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-86c3ff?style=flat-square&logo=grpc&logoColor=black)
 
 #### DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -73,7 +75,7 @@
 - Developing and maintaining full-stack applications with **Angular** (frontend) and **Node.js/Express/TypeScript** (backend) in an agile environment
 - Designing and consuming **RESTful APIs** backed by **SQL Server**, **PostgreSQL**, and **MongoDB** with focus on query optimization and data integrity
 - Implementing **real-time bidirectional communication** using **WebSockets** for live data updates across clients
-- Gaining hands-on experience with **microservices architecture** using asynchronous event-driven messaging via **RabbitMQ** and **KafkaJS**
+- Gaining hands-on experience with **microservices architecture** using asynchronous event-driven messaging via **RabbitMQ** and **gRPC** service-to-service communication
 
 ---
 
@@ -93,7 +95,7 @@
 
 ---
 
-### 🎓 Education
+### 🎓 Education & Training
 
 **B.Sc. Communication & Electronics Engineering** — Alexandria University *(Sep 2020 – Jun 2025)*
 - CGPA: 3.02
@@ -169,5 +171,6 @@
 </p>
 
 <p align="center">
+  <!-- Instruction Translation: "Clean code, scalable systems, continuous growth." -->
   <em>"Clean code, scalable systems, continuous growth."</em>
 </p>
