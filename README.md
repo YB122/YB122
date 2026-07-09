@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Application+Developer;Angular+%7C+React+%7C+Spring+Boot+%7C+Node.js;Always+Learning+%F0%9F%9A%80&font=Fira+Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Application+Developer;NestJS+%7C+Spring+Boot+%7C+Angular+%7C+React;Always+Learning+%F0%9F%9A%80&font=Fira+Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 - 🎓 **B.Sc. Communication & Electronics Engineering** – Alexandria University *(Graduated 2025)*
 - 🚀 **Open Source Application Developer** – NTI × Digital Egypt Youth (DEY) HireReady Initiative *(420 hrs, 10+ projects)*
 - 👨‍💻 Passionate about building scalable, production-ready web applications with clean, maintainable code
-- 🧠 Currently working with **Angular**, **Java Spring Boot**, **Node.js/Express**, **WebSockets**, **RabbitMQ**, and **gRPC**
+- 🧠 Currently working with **NestJS**, **Java Spring Boot**, **Angular**, **REST APIs**, **MySQL**, and **gRPC**
 - 💬 Ask me about **Full Stack Development**, **REST & GraphQL APIs**, **Microservices**, **Backend Architecture**, and **Open Source**
 - ⚡ Fun Fact: I enjoy reading and walking by the sea 🌊
 
@@ -45,15 +45,18 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-#### Backend
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+#### Backend & Databases
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat-square&logo=api&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
@@ -81,7 +84,7 @@
 
 #### Full Stack Developer Intern — [I-Fikra](https://www.i-fikra.com) *(May 2026 – Present)*
 - Developing and maintaining full-stack applications with **Angular** (frontend) and **Node.js/Express/TypeScript** (backend) in an agile environment
-- Designing and consuming **RESTful APIs** backed by **SQL Server**, **PostgreSQL**, and **MongoDB** with focus on query optimization and data integrity
+- Designing and consuming highly optimized **RESTful APIs** backed by **MySQL**, **SQL Server**, **PostgreSQL**, and **MongoDB**
 - Implementing **real-time bidirectional communication** using **WebSockets** for live data updates across clients
 - Gaining hands-on experience with **microservices architecture** using asynchronous event-driven messaging via **RabbitMQ** and **gRPC** service-to-service communication
 
