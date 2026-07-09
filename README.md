@@ -10,6 +10,14 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="#-work-experience">💼 Experience</a> •
+  <a href="#-featured-projects">🚀 Projects</a> •
+  <a href="#-tech-stack">🛠 Tech Stack</a> •
+  <a href="#-education--training">🎓 Education</a> •
+  <a href="#-connect-with-me">📫 Contact</a>
+</p>
+
 ---
 
 - 🏢 **Full Stack Developer Intern** at **I-Fikra** *(May 2026 – Present)*
@@ -171,6 +179,5 @@
 </p>
 
 <p align="center">
-  <!-- Instruction Translation: "Clean code, scalable systems, continuous growth." -->
   <em>"Clean code, scalable systems, continuous growth."</em>
 </p>
