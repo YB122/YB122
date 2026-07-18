@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Application+Developer;NestJS+%7C+Spring+Boot+%7C+Angular+%7C+React;Always+Learning+%F0%9F%9A%80&font=Fira+Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Engineer;Software+Engineer;Open+Source+Application+Developer;NestJS+%7C+Spring+Boot+%7C+Angular+%7C+React;Always+Learning+%F0%9F%9A%80&font=Fira+Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p>
 
